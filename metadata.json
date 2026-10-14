@@ -1,0 +1,7 @@
+{
+  "name": "SchemeSetu - AI Government Scheme Matching Assistant",
+  "description": "Conversational, rule-based, and RAG-powered government scheme matching assistant with explainability, near-miss detection, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
